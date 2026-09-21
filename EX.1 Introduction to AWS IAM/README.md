@@ -72,5 +72,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 ## Author
 **Name:** Irfan khan .N (212224230097)
 
+**Reg No:** 212224230097
+
 **Course:** Introduction to Cloud Computing  
 
