@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: Mohammed IRFAN KHAN N
+* **Name**: IRFAN KHAN N
 * **Register Number**: 212224230097
-* **Date of Submission**: 20/08/2026
+* **Date of Submission**: 30/08/2026
 
 ---
 
