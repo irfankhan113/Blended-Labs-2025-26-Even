@@ -6,7 +6,7 @@
 * **Name**: IRFAN KHAN .N
 * **Register Number**: 212224230097
 * **Date of Submission**: 12.09.2026
-* 
+  
 ## Title
 
 Scale and Load Balance Your Architecture
